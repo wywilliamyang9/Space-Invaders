@@ -1,4 +1,5 @@
-Shida Yang
-20788646 s368yang
-openjdk version "16.0.1" 2021-04-20
-macOS 11.4 (Macbook Pro 2019)
+Space Invaders Game
+
+• A three-level 2D space invaders game developed with Java, supporting up to 60 FPS.
+
+• Used JavaFX to handle drawing and animation of simple graphics.
